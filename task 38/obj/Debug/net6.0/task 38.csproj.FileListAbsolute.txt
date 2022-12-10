@@ -1,0 +1,16 @@
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\task 38.exe
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\task 38.deps.json
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\task 38.runtimeconfig.json
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\task 38.dll
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\ref\task 38.dll
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\bin\Debug\net6.0\task 38.pdb
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.GlobalUsings.g.cs
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.csproj.AssemblyReference.cache
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.AssemblyInfoInputs.cache
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.AssemblyInfo.cs
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.csproj.CoreCompileInputs.cache
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.dll
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\ref\task 38.dll
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.pdb
+C:\Users\ирина\Desktop\Seminar 5 C#\task 38\obj\Debug\net6.0\task 38.genruntimeconfig.cache
